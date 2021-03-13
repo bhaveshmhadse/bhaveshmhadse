@@ -16,7 +16,13 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: bhaveshmhadse9@gmail.com
 
+<h3>Get connected with me</h3>
 
+<a href="https://instagram.com/bhaaaavesh__" target="blank">
+
+  <img align="left" alt="Bhavesh's Instagram" width="30px" src="instagram.png" />
+
+</a>
 
 
 <h3>📈 My GitHub Stats</h3>
