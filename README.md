@@ -17,5 +17,5 @@
 - 📫 How to reach me: bhaveshmhadse9@gmail.com
 
 
-# Get In touch 
+[To Google](www.google.com)
 
