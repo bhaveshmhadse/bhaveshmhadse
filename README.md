@@ -14,11 +14,12 @@
 
 
 - 💬 Ask me about anything
-- 📫 How to reach me: bhaveshmhadse9@gmail.com
+- 📫 How to reach me: **bhaveshmhadse9@gmail.com**
 
-<h3>Get connected with me</h3>
+<h3>Get connected with me: </h3>
+
 <a href="https://instagram.com/bhaaaavesh__" target="blank">
-  <img align="left" alt="Bhavesh's Instagram" width="60px" src="instagram.png" />
+  <img align="left" alt="Bhavesh's Instagram" width="60vw" src="instagram.png" />
 </a>
 
 <br><br>
