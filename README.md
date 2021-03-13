@@ -58,7 +58,7 @@
 
 
 
-## 📈 My GitHub Stats : 
+<h3 align="center"> 📈 My GitHub Stats : </h3>
 <p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaveshmhadse&show_icons=true&theme=dark&locale=en&layout=compact" alt="Bhavesh Mhadse"/>
