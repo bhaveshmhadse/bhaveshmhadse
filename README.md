@@ -24,7 +24,7 @@
 
 
 <a href="https://wa.me/+919136298868" target="blank">
-  <img align="left" alt="Bhavesh's Instagram" width="47vw" src="whatsapp.png" />
+  <img align="left" alt="Bhavesh's Whatssapp" width="47vw" style="padding: 30rem" src="whatsapp.png" />
 </a>
 
 <a href="https://touch.facebook.com/bhavesh.mhadse.7" target="blank">
