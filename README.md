@@ -44,7 +44,7 @@
   <img align="left" width="47vw" src="c.png" />
   <img align="left" width="47vw" src="c++.png" />
   <img align="left" width="47vw" src="react.png" />
-  <img align="left" width="47vw" src="intellij.png" />
+  <img align="center" width="47vw" src="intellij.png" />
   
 
 <br> <br>
