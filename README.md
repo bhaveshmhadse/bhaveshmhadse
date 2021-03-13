@@ -28,7 +28,7 @@
 </a>
 
 <a href="https://touch.facebook.com/bhavesh.mhadse.7" target="blank">
-  <img align="left" alt="Bhavesh's Facebook" width=50vw" src="facebook.png" />
+  <img align="left" alt="Bhavesh's Facebook" width="50vw" src="facebook.png" />
 </a>
 
 <br><br>
