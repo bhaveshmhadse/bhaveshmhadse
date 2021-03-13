@@ -23,7 +23,7 @@
   <img align="left" alt="Bhavesh's Instagram" width="30px" src="instagram.png" />
 
 </a>
-
+<br>
 
 <h3>📈 My GitHub Stats</h3>
 
