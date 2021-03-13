@@ -45,11 +45,11 @@
   <img align="left" width="47vw" src="c++.png" />
   <img align="left" width="47vw" src="react.png" />
   <img align="left" width="47vw" src="intellij.png" />
-  
+  <p></p>
 <br>
 <br>
 
-<h3>📈 My GitHub Stats : </h3>
+<h3><br>📈 My GitHub Stats : </h3>
 <br>
 <p>
 
