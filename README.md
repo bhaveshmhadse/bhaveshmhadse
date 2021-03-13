@@ -5,8 +5,8 @@
 # Hey 👋🏻 my name is Bhavesh Mhadse 
 
 
-## A developer,avid learner,and I love to write clean code!
-<!--
+
+##I'm a Student,Developer and a clean coder.
 **bhaveshmhadse/bhaveshmhadse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
