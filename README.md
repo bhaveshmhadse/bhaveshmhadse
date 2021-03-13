@@ -19,16 +19,16 @@
 <h3>Get connected with me: </h3>
 
 <a href="https://instagram.com/bhaaaavesh__" target="blank">
-  <img align="center" alt="Bhavesh's Instagram" width="60vw" src="instagram.png" style="margin: 50px;" />
+  <img align="left" alt="Bhavesh's Instagram" width="60vw" src="instagram.png" style="margin: 50px;" />
 </a>
 
 
 <a href="https://wa.me/+919136298868" target="blank">
-  <img align="left" alt="Bhavesh's Instagram" width="50vw" src="whatsapp.png" />
+  <img align="left" alt="Bhavesh's Instagram" width="47vw" src="whatsapp.png" />
 </a>
 
 <a href="https://touch.facebook.com/bhavesh.mhadse.7" target="blank">
-  <img align="left" alt="Bhavesh's Facebook" width="50vw" src="facebook.png" />
+  <img align="left" alt="Bhavesh's Facebook" width="47vw" src="facebook.png" />
 </a>
 
 <br><br>
