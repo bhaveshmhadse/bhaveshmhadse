@@ -47,17 +47,16 @@
   <img align="left" width="47vw" src="intellij.png" />
   
 
-<br/>
+<br> <br>
 
 ## 📈 My GitHub Stats : 
-<br>
 <p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaveshmhadse&show_icons=true&theme=dark&locale=en&layout=compact" alt="Bhavesh Mhadse"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=bhaveshmhadse&show_icons=true&theme=dark&locale=en" alt="Bhavesh Mhadse" />
 
- </p>
+</p>
 
 
 
