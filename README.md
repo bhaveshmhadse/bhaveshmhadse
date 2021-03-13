@@ -49,7 +49,7 @@
 
 <br/>
 
-<h3>📈 My GitHub Stats : </h3>
+## 📈 My GitHub Stats : 
 <br>
 <p>
 
