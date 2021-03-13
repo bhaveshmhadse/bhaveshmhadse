@@ -16,7 +16,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: **bhaveshmhadse9@gmail.com**
 
-<h3 align="center">Get connected with me: </h3>
+<h3 align="left">Get connected with me: </h3>
 
 <a href="https://instagram.com/bhaaaavesh__" target="blank">
   <img align="left" alt="Bhavesh's Instagram" width="60vw" src="instagram.png" style="margin: 50px;" />
@@ -32,7 +32,7 @@
 </a>
 
 
-<h3 align="center"> Technology and Tools :  </h3>
+<h3 align="left"> Technology and Tools :  </h3>
 
   <img align="left" width="47vw" src="python.png" />
   <img align="left" width="47vw" src="js.png" />
@@ -57,7 +57,7 @@
 
 
 
-<h3 align="center"> 📈 My GitHub Stats : </h3>
+<h3 align="left"> 📈 My GitHub Stats : </h3>
 <p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaveshmhadse&show_icons=true&theme=dark&locale=en&layout=compact" alt="Bhavesh Mhadse"/>
