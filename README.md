@@ -20,10 +20,11 @@
 
 <a href="https://instagram.com/bhaaaavesh__" target="blank">
 
-  <img align="left" alt="Bhavesh's Instagram" width="70px" src="instagram.png" />
+  <img align="left" alt="Bhavesh's Instagram" width="60px" src="instagram.png" />
 
 </a>
-<br>
+
+<br><br>
 
 <h3>📈 My GitHub Stats</h3>
 
