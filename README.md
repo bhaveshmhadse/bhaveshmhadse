@@ -31,7 +31,7 @@
   <img align="left" alt="Bhavesh's Facebook" width="47vw" src="facebook.png" />
 </a>
 
-<br>
+
 <h3 align="center"> Technology and Tools :  </h3>
 
   <img align="left" width="47vw" src="python.png" />
@@ -47,8 +47,7 @@
   <img align="center" width="47vw" src="intellij.png" />
   
 
-<br> 
-<p></p>
+
 
 
 
