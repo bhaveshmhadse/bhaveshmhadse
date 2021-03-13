@@ -20,7 +20,7 @@
 
 <a href="https://instagram.com/bhaaaavesh__" target="blank">
 
-  <img align="left" alt="Bhavesh's Instagram" width="30px" src="instagram.png" />
+  <img align="left" alt="Bhavesh's Instagram" width="10px" src="instagram.png" />
 
 </a>
 <br>
