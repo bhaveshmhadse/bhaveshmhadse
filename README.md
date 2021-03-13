@@ -22,9 +22,20 @@
   <img align="left" alt="Bhavesh's Instagram" width="60vw" src="instagram.png" />
 </a>
 
+
+<a href="https://wa.me/+919136298868" target="blank">
+  <img align="left" alt="Bhavesh's Instagram" width="60vw" src="whatsapp.png" />
+</a>
+
+<a href="https://touch.facebook.com/bhavesh.mhadse.7" target="blank">
+  <img align="left" alt="Bhavesh's Facebook" width="60vw" src="facebook.png" />
+</a>
+
+<br><br>
+<h3> Technology and Tools :  </h3>
 <br><br>
 
-<h3>📈 My GitHub Stats</h3>
+<h3>📈 My GitHub Stats : </h3>
 
 <p>
 
