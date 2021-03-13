@@ -19,7 +19,7 @@
 <h3>Get connected with me: </h3>
 
 <a href="https://instagram.com/bhaaaavesh__" target="blank">
-  <img align="left" alt="Bhavesh's Instagram" width="60vw" src="instagram.png" />
+  <img align="left" alt="Bhavesh's Instagram" width="60vw" src="instagram.png" style="margin-top: 50px" />
 </a>
 
 
