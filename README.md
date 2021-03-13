@@ -7,11 +7,9 @@
 
 
 ## I'm a Student,Developer and a clean coder.
-**bhaveshmhadse/bhaveshmhadse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Javascript, Python
+- 🔭 I’m currently working on Javascript, Python and some frontend projects
 - 🌱 I’m currently learning Reactjs & Typescript
 
 
@@ -19,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: bhaveshmhadse9@gmail.com
 
 
--->
+# Get In touch 
+
