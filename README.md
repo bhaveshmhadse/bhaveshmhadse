@@ -2,11 +2,11 @@
 
 
 
-# Hey 👋🏻 my name is Bhavesh Mhadse 
+<h1 align="center">Hey 👋🏻 my name is Bhavesh Mhadse </h1>
 
 
 
-## I'm a Student,Developer and a Clean coder.
+<h2 align="center"> I'm a Student,Developer and a Clean coder.</h2>
 
 
 - 🔭 I’m currently working on Javascript, Python and some Front-end projects
@@ -16,7 +16,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: **bhaveshmhadse9@gmail.com**
 
-<h3>Get connected with me: </h3>
+<h3 align="center">Get connected with me: </h3>
 
 <a href="https://instagram.com/bhaaaavesh__" target="blank">
   <img align="left" alt="Bhavesh's Instagram" width="60vw" src="instagram.png" style="margin: 50px;" />
@@ -32,7 +32,7 @@
 </a>
 
 <br><br>
-## Technology and Tools :  
+<h3 align="center"> Technology and Tools :  </h3>
 
   <img align="left" width="47vw" src="python.png" />
   <img align="left" width="47vw" src="js.png" />
