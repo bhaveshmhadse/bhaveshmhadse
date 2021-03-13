@@ -33,25 +33,24 @@
 
 <br><br>
 ## Technology and Tools :  
-  <img align="left" width="47vw" src="html.png" />
-  <img align="left" width="47vw" src="css.png" />
   <img align="left" width="47vw" src="vscode.png" />
+  <img align="left" width="47vw" src="c.png" />
+  <img align="left" width="47vw" src="python.png" />
   <img align="left" width="47vw" src="js.png" />
   <img align="left" width="47vw" src="ts.png" />
   <img align="left" width="47vw" src="node.png" />
-  <img align="left" width="47vw" src="c.png" />
+  <img align="left" width="47vw" src="html.png" />
+  <img align="left" width="47vw" src="css.png" />
   <img align="left" width="47vw" src="c++.png" />
-  <img align="left" width="47vw" src="python.png" />
   <img align="left" width="47vw" src="react.png" />
   <img align="left" width="47vw" src="intellij.png" />
 
   
-
-
-<br><br>
+<br>
+<br>
 
 ## 📈 My GitHub Stats : 
-
+<br>
 <p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaveshmhadse&show_icons=true&theme=dark&locale=en&layout=compact" alt="Bhavesh Mhadse"/>
