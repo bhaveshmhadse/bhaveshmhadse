@@ -41,6 +41,7 @@
   <img align="left" width="47vw" src="html.png" />
   <img align="left" width="47vw" src="css.png" />
   <img align="left" width="47vw" src="vscode.png" />
+  <img aligh = "left" width ="47" src="java.png"/>
   <img align="left" width="47vw" src="c.png" />
   <img align="left" width="47vw" src="c++.png" />
   <img align="left" width="47vw" src="react.png" />
