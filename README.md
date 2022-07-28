@@ -23,7 +23,7 @@
 </a>
 
 
-<a href="linkedin.com/in/bhaveshmhadse" target="blank">
+<a href="https://www.linkedin.com/in/bhaveshmhadse" target="blank">
   <img align="left" alt="Bhavesh's LinkedIn" width="47vw" src="linkedIn.png" />
 </a>
 
