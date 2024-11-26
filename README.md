@@ -6,7 +6,7 @@
 
 
 
-<h2 align="center"> I'm a Student, Developer and a Clean coder.</h2>
+<h2 align="center"> I'm a Full Stack Developer and a Clean coder.</h2>
 
 
 - 🔭 I’m currently working on Javascript, Python and some Front-end projects
